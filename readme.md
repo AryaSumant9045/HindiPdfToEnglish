@@ -7,3 +7,7 @@ python3 kurtidev2unicode.py -i yourInputFile.txt -o output.txt
 
 step-3:- (if you have file use 'HindiToEng' folder and 'fileTranslate.py' file for converting your file)
 this will take your hindi.txt file and give output in your English.txt file
+
+step-4: - (if you can copy directly from Hindipdf and comes Hindi Text in copeied for converting this HindiText.pdf to English.txt)
+run Texttranslate.py file only result will come in English.txt 
+
