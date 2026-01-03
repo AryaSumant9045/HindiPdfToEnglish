@@ -1,5 +1,6 @@
 step-1:-(agr hindi pdf ka content copy krne se hindi nhi milata hai toh matlab vo kurtidev ho sakta hai )
 So #run pdfToKutridev.py file 
+Note:-if you have English.pdf then you can use this pythonfile code to converting in Enlgish.txt file
 
 step-2:- (convert your kurtidev to hindi content)
 run python file # kurtidev2unicodeHindi.py file using below command 
